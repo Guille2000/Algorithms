@@ -1,6 +1,6 @@
 # Algorithms
 # Hey there!
-<p>This is repository you will find a lot of exercises of algorithms.</p>
+<p>In this is repository you will find a lot of exercises of algorithms.</p>
 <p>Most of them are from a book called "La esencia de la logica de programación", written by Omar Trejos.</p>
 <h1>A "must read book"</h1>
 <p>It is a very good book where you can find a lot of explanations and methods to solve problems, and practical advices to improve logic.</p>
